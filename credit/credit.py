@@ -4,7 +4,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score,classification_report
 from yellowbrick.classifier import ConfusionMatrix
 
-# arquivo= 'C:/Users/edubo/Desktop/I.A/naive_bayes/credito/credit.pkl'
+# arquivo= 'C:/Users/edubo/Desktop/I.A/pre-processamento/credito/credit.pkl'
 # destino='C:/Users/edubo/Desktop/I.A/Aprendizagem baseado em instâncias/knn/credit'
 # shutil.copy(arquivo,destino)
 
